@@ -1,5 +1,5 @@
 ### Hi there 👋
-최근 관심사 AI,알고리즘
+최근 관심사 알고리즘
 <!--
 **rlawogns/rlawogns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
